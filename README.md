@@ -1,6 +1,6 @@
 ## Reproduction attempt
 
-For https://github.com/prisma/prisma/issues/21471#issuecomment-1812081943
+Similar setup as https://github.com/Jolg42/repro-21471 but with differences for https://github.com/prisma/prisma/issues/21471#issuecomment-1812081943
 
 Make sure to have a database running and edit the `.env` file.
 
